@@ -6,7 +6,7 @@ npm build 后，用 Pycharm 打开编辑，可以看到 frida api 代码补全�
 
 # 注
 
-frida 17.0.0 以上版本 API 变动较大，将新开分支以支持新版本。
+frida 17.0.0 以上版本 API 变动较大，请使用 `for17` 分支。
 
 ## 1. 编译和使用
 
